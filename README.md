@@ -1,5 +1,5 @@
 # Bean NFT Generator
-Do you think NFT are dumb? I do they're an MLM for gullible people. Then I read things like "AI Generated" and claim that because of that they're unique. 99% of them are not unique.
+Do you think NFT are dumb? I do they're a MLM for gullible people. Then I read things like "AI Generated" and claim that because of that they're unique. 99% of them are not unique.
 
 You can edit the `x` and `y` vars in either `defaultbeans()` or `coolbeans()` you can use any parametric equations. I used the lima bean curve because I think is funny.
 
